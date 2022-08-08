@@ -1,21 +1,18 @@
 
 "use strict";
-const intraceAnimateObserves = document.getElementsByClassName('intrace-animate');
+var elements = document.getElementsByClassName('intrace-animate');
 
-let intraceanimateobserve = new IntersectionObserver(entries => {
-    entries.forEach(entry => {
-        if (entry.isIntersecting) {
-            let item = entry.target;
-            if(document.querySelector('.intrace-page-preloader') !== null && window.scrollY < 150){
-                setTimeout(() => {item.classList.add('intrace-animate-init');}, 300);
-            }else{
-                item.classList.add('intrace-animate-init');
-            }
-            //intraceanimateobserve.disconnect();
-        }
+function playAnimation(element) {
+    if ( element.getBoundingClientRect().top > 0 && element.getBoundingClientRect().top <= (window.innerHeight * 0.75) ) {
+        element.classList.add('intrace-animate-init');
+    }
+}
+
+for (let element of elements) {
+    window.addEventListener('load', function() {
+        playAnimation(element);
     });
-}, {threshold: 0.5});
-
-for (let itemobserve of intraceAnimateObserves) {
-    intraceanimateobserve.observe(itemobserve);
+    window.addEventListener('scroll', function() {
+        playAnimation(element);
+    });
 }
