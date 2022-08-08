@@ -12,7 +12,7 @@
 	<atom:link href="https://tahsinuddin.github.io/category/uncategorized/feed/" rel="self" type="application/rss+xml" />
 	<link>https://tahsinuddin.github.io</link>
 	<description>Learn more about Tahsin!</description>
-	<lastBuildDate>Sat, 06 Aug 2022 04:17:06 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 08 Aug 2022 16:01:26 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -31,7 +31,7 @@
 
 					<description><![CDATA[I first learned about computer programming in 7th grade, through Khan Academy’s Intro to JS and HTML / CSS modules.I marveled at how I was able to talk to computers as though they were people, writing commands that would produce my intended final product.But once I reached the section on Object-Oriented Programming, I got stuck, and ended up taking a break from learning web development for 6 years. I was randomly selected to participate in Techie Youth’s Learn to E-Earn through a random placement by New York’s Summer Youth Employment Program.Techie Youth, a non-profit charity, provides career training and education]]></description>
 										<content:encoded><![CDATA[
-<h2 class="wp-block-gutenverse-heading guten-element guten-N6oeSU">The Birth of My Tech Journey!</h2>
+<h2 class="wp-block-gutenverse-heading guten-element guten-N6oeSU">The Birth of My Tech Journey <img src="https://s.w.org/images/core/emoji/14.0.0/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /></h2>
 
 
 
@@ -47,7 +47,7 @@
 
 
 
-<h2>Skills I’ve Learned through Techie Youth</h2>
+<h2 class="wp-block-gutenverse-heading guten-element guten-WBYN3E">Skills I&#8217;ve Learned Through Techie Youth</h2>
 
 
 
@@ -55,7 +55,7 @@
 
 
 
-<h3>Introductory Units</h3>
+<h3 class="wp-block-gutenverse-heading guten-element guten-4qUSpc">Introductory Units</h3>
 
 
 
@@ -71,11 +71,11 @@
 
 
 
-<h3>Web Development Unit</h3>
+<h3 class="wp-block-gutenverse-heading guten-element guten-4qUSpc">Web Development</h3>
 
 
 
-<p>Once students finish the prerequisite units, they’re able to move on to any elective units of their choice! </p>
+<p>Once students finish the prerequisite units, they’re able to move on to any elective units of their choice!&nbsp;</p>
 
 
 
@@ -95,7 +95,7 @@
 
 
 
-<p>To conclude this unit, I used the skills I gained to create a personal website (which you’re on right now)! I used the Intrace theme on WordPress, customized it using HTML and CSS to make the website responsive on mobile devices, and then hosted my website for free on GitHub Pages,</p>
+<p>To conclude this unit, I used the skills I gained to create a personal website (which you’re on right now)! I used the Intrace theme on WordPress, customized it using HTML and CSS to make the website responsive on mobile devices, and then hosted my website for free on GitHub Pages.</p>
 
 
 
@@ -103,11 +103,11 @@
 
 
 
-<h3>Writing Unit</h3>
+<h3 class="wp-block-gutenverse-heading guten-element guten-4qUSpc">Writing Skills</h3>
 
 
 
-<p>Ever since my creative writing class in 10th grade, I knew that I loved writing about myself. So now that I created a functional personal website, why not supplement it by learning how to write blogs? </p>
+<p>Ever since my creative writing class in 10th grade, I knew that I loved writing about myself. So now that I created a functional personal website, why not supplement it by learning how to write blogs?&nbsp;</p>
 
 
 
@@ -123,7 +123,11 @@
 
 
 
-<p>I also learned strategies to make blog posts easier to digest, such as incorporating headings to make content skimmable and adding pictures to make it engaging.</p>
+<p>I also learned strategies to make blog posts easier to digest, such as incorporating headings to make content easily skimmable.</p>
+
+
+
+<div style="height:26px" aria-hidden="true" class="wp-block-spacer"></div>
 ]]></content:encoded>
 					
 					<wfw:commentRss>https://tahsinuddin.github.io/2022/08/06/boosting-my-career-journey-with-techie-youth/feed/</wfw:commentRss>
