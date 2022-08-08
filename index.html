@@ -126,11 +126,11 @@ img.emoji {
 <style>.wp-container-51 > .alignleft { float: left; margin-inline-start: 0; margin-inline-end: 2em; }.wp-container-51 > .alignright { float: right; margin-inline-start: 2em; margin-inline-end: 0; }.wp-container-51 > .aligncenter { margin-left: auto !important; margin-right: auto !important; }.wp-container-51 > * { margin-block-start: 0; margin-block-end: 0; }.wp-container-51 > * + * { margin-block-start: var( --wp--style--block-gap ); margin-block-end: 0; }</style>
 <style>.wp-container-52 > :where(:not(.alignleft):not(.alignright)) {max-width: 1140px;margin-left: auto !important;margin-right: auto !important;}.wp-container-52 > .alignwide { max-width: 1140px;}.wp-container-52 .alignfull { max-width: none; }.wp-container-52 > .alignleft { float: left; margin-inline-start: 0; margin-inline-end: 2em; }.wp-container-52 > .alignright { float: right; margin-inline-start: 2em; margin-inline-end: 0; }.wp-container-52 > .aligncenter { margin-left: auto !important; margin-right: auto !important; }.wp-container-52 > * { margin-block-start: 0; margin-block-end: 0; }.wp-container-52 > * + * { margin-block-start: var( --wp--style--block-gap ); margin-block-end: 0; }</style>
 		<style id="wp-custom-css">html,body {
-	width: 100%;
+	width: 100%!important;
 	height: 100%;
 	margin: 0px;
 	padding: 0px;
-	overflow-wrap:normal;
+	overflow-x:hidden;
 	position:relative;
 }
 
@@ -144,6 +144,11 @@ svg {
 		background-color:rgb(209, 176, 128);
 		color:#181818;
 	}e
+}
+
+.intrace-animate {
+	width: 100%!important;
+	overflow-x:hidden;
 }
 
 .website-title a {
@@ -190,17 +195,17 @@ svg {
 
 
 <header class="wp-container-13 wp-block-group" style="padding-top:200px;padding-bottom:280px">
-<h2 class="has-text-align-center intrace-animate intrace-move-right intrace-delay-1 has-intrace-accent-color has-text-color" style="font-size:72px;font-style:normal;font-weight:600;line-height:1.2;text-transform:uppercase;letter-spacing:0.1em">Hey! I&#8217;m Tahsin,</h2>
+<h2 class="has-text-align-center has-intrace-accent-color has-text-color" style="font-size:72px;font-style:normal;font-weight:600;line-height:1.2;text-transform:uppercase;letter-spacing:0.1em">Hey! I&#8217;m Tahsin,</h2>
 
 
 
-<h2 class="has-text-align-center intrace-animate intrace-move-left intrace-delay-3 has-white-color has-text-color" style="font-size:56px;font-style:normal;font-weight:600;line-height:1.5;text-transform:uppercase;letter-spacing:0.1em">a biochemistry Student in NYC.</h2>
+<h2 class="has-text-align-center has-white-color has-text-color" style="font-size:56px;font-style:normal;font-weight:600;line-height:1.5;text-transform:uppercase;letter-spacing:0.1em">a biochemistry Student in NYC.</h2>
 
 
 
 <div class="wp-container-12 wp-block-columns" style="padding-top:40px">
 <div class="wp-container-11 wp-block-column" style="flex-basis:100%">
-<div class="wp-container-10 is-content-justification-center wp-block-buttons intrace-animate intrace-move-down intrace-delay-7">
+<div class="wp-container-10 is-content-justification-center wp-block-buttons">
 <div class="wp-block-button has-custom-font-size is-style-custombuttonborder has-secondary-font-family has-tiny-font-size"><a class="wp-block-button__link" href="https://tahsinuddin.github.io/my-experiences/" style="padding-top:14px;padding-bottom:14px">View My Experiences</a></div>
 
 
@@ -302,12 +307,12 @@ svg {
 <span aria-hidden="true" class="wp-block-cover__background has-background-dim-80 has-background-dim"></span><img loading="lazy" width="1000" height="667" class="wp-block-cover__image-background wp-image-70" alt="" src="https://tahsinuddin.github.io/wp-content/uploads/2022/07/river.jpg" style="object-position:52% 88%" data-object-fit="cover" data-object-position="52% 88%" srcset="https://tahsinuddin.github.io/wp-content/uploads/2022/07/river.jpg 1000w, https://tahsinuddin.github.io/wp-content/uploads/2022/07/river-300x200.jpg 300w, https://tahsinuddin.github.io/wp-content/uploads/2022/07/river-768x512.jpg 768w" sizes="(max-width: 1000px) 100vw, 1000px"><div class="wp-block-cover__inner-container">
 <div class="wp-container-21 wp-block-columns">
 <div class="wp-container-20 wp-block-column" style="padding-top:0px;padding-right:0px;padding-bottom:0px;padding-left:0px;flex-basis:100%">
-<h2 class="has-text-align-center intrace-animate intrace-move-up intrace-delay-1 is-style-default has-intrace-accent-color has-text-color has-extra-large-font-size" style="font-style:normal;font-weight:600;text-transform:uppercase;letter-spacing:2px;margin-top:30px">My Experiences</h2>
+<h2 class="has-text-align-center has-intrace-accent-color has-text-color has-extra-large-font-size" style="font-style:normal;font-weight:600;text-transform:uppercase;letter-spacing:2px;margin-top:30px">My Experiences</h2>
 
 
 
 <div class="wp-container-19 wp-block-group">
-<p class="has-text-align-center intrace-animate intrace-move-up intrace-delay-5 has-intrace-background-color has-text-color has-small-font-size" style="font-style:normal;font-weight:300">I incorporate data and technology to provide free access to resources for students in need, to eliminate barriers and allow them to reach closer to their dreams.</p>
+<p class="has-text-align-center has-intrace-background-color has-text-color has-small-font-size" style="font-style:normal;font-weight:300">I incorporate data and technology to provide free access to resources for students in need, to eliminate barriers and allow them to reach closer to their dreams.</p>
 
 
 
@@ -400,20 +405,20 @@ svg {
 
 <main class="wp-container-29 wp-block-group is-style-default has-intrace-background-background-color has-background" style="padding-top:10px;padding-bottom:10px">
 <div class="wp-container-28 wp-block-query">
-<h2 class="has-text-align-center intrace-animate intrace-move-up intrace-delay-3 has-intrace-accent-color has-text-color" style="font-size:32px;font-style:normal;font-weight:600;line-height:1.3;text-transform:uppercase;letter-spacing:1px;margin-top:30px">Latest BloGS &amp; Articles</h2>
+<h2 class="has-text-align-center has-intrace-accent-color has-text-color" style="font-size:32px;font-style:normal;font-weight:600;line-height:1.3;text-transform:uppercase;letter-spacing:1px;margin-top:30px">Latest BloGS &amp; Articles</h2>
 
 
 
 <div class="wp-container-26 wp-block-group">
 <div class="wp-container-25 wp-block-columns">
 <div class="wp-container-24 wp-block-column">
-<p class="has-text-align-center intrace-animate intrace-move-up intrace-delay-5 has-intrace-body-text-color has-text-color has-tiny-font-size" style="font-style:normal;font-weight:300">Check out my blog posts below to read my thoughts on current social issues as well as insight I&#8217;ve gained throughout my life.</p>
+<p class="has-text-align-center has-intrace-body-text-color has-text-color has-tiny-font-size" style="font-style:normal;font-weight:300">Check out my blog posts below to read my thoughts on current social issues as well as insight I&#8217;ve gained throughout my life.</p>
 </div>
 </div>
 </div>
 
 
-<ul class="wp-container-27 is-flex-container columns-3 intrace-animate intrace-move-up intrace-delay-3 wp-block-post-template">
+<ul class="wp-container-27 is-flex-container columns-3 wp-block-post-template">
 <li class="wp-block-post post-507 post type-post status-publish format-standard has-post-thumbnail hentry category-uncategorized">
 <figure style="margin-bottom: 20px;" class="wp-block-post-featured-image"><a href="https://tahsinuddin.github.io/2022/08/06/boosting-my-career-journey-with-techie-youth/"><img width="900" height="600" src="https://tahsinuddin.github.io/wp-content/uploads/2022/07/tutoring.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="Boosting My Career Journey with Techie Youth!" loading="lazy" srcset="https://tahsinuddin.github.io/wp-content/uploads/2022/07/tutoring.jpg 900w, https://tahsinuddin.github.io/wp-content/uploads/2022/07/tutoring-300x200.jpg 300w, https://tahsinuddin.github.io/wp-content/uploads/2022/07/tutoring-768x512.jpg 768w" sizes="(max-width: 900px) 100vw, 900px"></a></figure>
 
@@ -451,11 +456,11 @@ svg {
 <div class="wp-container-36 wp-block-group has-intrace-primary-background-color has-background" style="padding-top:50px;padding-bottom:50px">
 <div class="wp-container-35 wp-block-columns">
 <div class="wp-container-30 wp-block-column is-vertically-aligned-center" style="flex-basis:66.66%">
-<h2 class="intrace-animate intrace-move-right intrace-delay-1 has-white-color has-text-color" style="font-size:32px;font-style:normal;font-weight:600">Want to get in touch?</h2>
+<h2 class="has-white-color has-text-color" style="font-size:32px;font-style:normal;font-weight:600">Want to get in touch?</h2>
 
 
 
-<p class="intrace-animate intrace-move-right intrace-delay-3 has-intrace-body-text-2-color has-text-color has-tiny-font-size" style="font-style:normal;font-weight:300">I&#8217;m excited to connect! Click on &#8220;Contact Me&#8221; or send me a message on <a href="http://linkedin.com/in/tahsinuddin">LinkedIn</a>.</p>
+<p class="has-intrace-body-text-2-color has-text-color has-tiny-font-size" style="font-style:normal;font-weight:300">I&#8217;m excited to connect! Click on &#8220;Contact Me&#8221; or send me a message on <a href="http://linkedin.com/in/tahsinuddin">LinkedIn</a>.</p>
 </div>
 
 
@@ -463,7 +468,7 @@ svg {
 <div class="wp-container-34 wp-block-column is-vertically-aligned-center" style="flex-basis:33.33%">
 <div class="wp-container-33 wp-block-columns">
 <div class="wp-container-32 wp-block-column">
-<div class="wp-container-31 is-content-justification-right wp-block-buttons intrace-animate intrace-move-left intrace-delay-7">
+<div class="wp-container-31 is-content-justification-right wp-block-buttons">
 <div class="wp-block-button has-custom-font-size is-style-custombuttonborder" style="font-size:14px"><a class="wp-block-button__link" href="https://tahsinuddin.github.io/contact/" style="padding-top:14px;padding-right:35px;padding-bottom:14px;padding-left:35px">Contact ME</a></div>
 </div>
 </div>
