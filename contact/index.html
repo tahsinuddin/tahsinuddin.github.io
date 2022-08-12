@@ -136,7 +136,13 @@ img.emoji {
 		font-size:1.4em!important;
 	}
 }
-	
+
+@media only screen and (max-width: 700px) {
+	.blog-post-content {
+		padding:30px!important;
+	}
+}
+
 h2.has-extra-large-font-size {
 	font-size: 2rem!important;
 	padding-left: 20px;
@@ -150,7 +156,6 @@ h2.has-extra-large-font-size {
 svg {
 		background-color:rgb(209, 176, 128);
 		color:#181818;
-	}e
 }
 
 .website-title a {
@@ -443,7 +448,7 @@ wp.i18n.setLocaleData( { 'text directionltr': [ 'ltr' ] } );
 <script src="https://tahsinuddin.github.io/wp-includes/js/dist/api-fetch.min.js?ver=63050163caffa6aac54e9ebf21fe0472" id="wp-api-fetch-js"></script>
 <script id="wp-api-fetch-js-after">
 wp.apiFetch.use( wp.apiFetch.createRootURLMiddleware( "https://tahsinuddin.github.io/wp-json/" ) );
-wp.apiFetch.nonceMiddleware = wp.apiFetch.createNonceMiddleware( "2b462f1a09" );
+wp.apiFetch.nonceMiddleware = wp.apiFetch.createNonceMiddleware( "a3a3e348b0" );
 wp.apiFetch.use( wp.apiFetch.nonceMiddleware );
 wp.apiFetch.use( wp.apiFetch.mediaUploadMiddleware );
 wp.apiFetch.nonceEndpoint = "https://tahsinuddin.github.io/wp-admin/admin-ajax.php?action=rest-nonce";
