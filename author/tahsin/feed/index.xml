@@ -8,8 +8,8 @@
 	>
 
 <channel>
-	<title>Tahsin Uddin</title>
-	<atom:link href="https://tahsinuddin.github.io/feed/" rel="self" type="application/rss+xml" />
+	<title>Tahsin Uddin &#8211; Tahsin Uddin</title>
+	<atom:link href="https://tahsinuddin.github.io/author/tahsin/feed/" rel="self" type="application/rss+xml" />
 	<link>https://tahsinuddin.github.io</link>
 	<description>Learn more about Tahsin!</description>
 	<lastBuildDate>Sat, 13 Aug 2022 22:06:03 +0000</lastBuildDate>
