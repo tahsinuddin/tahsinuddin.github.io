@@ -18,7 +18,7 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.0.1</generator>
+	<generator>https://wordpress.org/?v=6.1.1</generator>
 	<item>
 		<title>Boosting My Career Journey with Techie Youth!</title>
 		<link>https://tahsinuddin.github.io/2022/08/06/boosting-my-career-journey-with-techie-youth/</link>
@@ -31,7 +31,7 @@
 
 					<description><![CDATA[I first learned about computer programming in 7th grade, through Khan Academy’s Intro to JS and HTML / CSS modules. I marveled at how I was able to talk to computers as though they were people, writing commands that would produce my intended final product. But once I reached the section on Object-Oriented Programming, I got stuck, and ended up taking a break from learning web development for 6 years. I was randomly selected to participate in Techie Youth’s Learn to E-Earn through a random placement by New York’s Summer Youth Employment Program. Techie Youth, a non-profit charity, provides career]]></description>
 										<content:encoded><![CDATA[
-<div class="wp-container-1 wp-block-group blog-post-content" style="padding-top:0px;padding-right:120px;padding-bottom:0px;padding-left:120px">
+<div class="is-layout-flow wp-block-group blog-post-content" style="padding-top:0px;padding-right:120px;padding-bottom:0px;padding-left:120px">
 <h2 class="wp-block-gutenverse-heading guten-element guten-yR3un4">The Birth of My Tech Journey</h2>
 
 
@@ -48,7 +48,7 @@
 
 
 
-<figure class="wp-block-image size-large"><img width="1024" height="723" src="https://tahsinuddin.github.io/wp-content/uploads/2022/08/kid-1024x723.jpg" alt="" class="wp-image-827" srcset="https://tahsinuddin.github.io/wp-content/uploads/2022/08/kid-1024x723.jpg 1024w, https://tahsinuddin.github.io/wp-content/uploads/2022/08/kid-300x212.jpg 300w, https://tahsinuddin.github.io/wp-content/uploads/2022/08/kid-768x542.jpg 768w, https://tahsinuddin.github.io/wp-content/uploads/2022/08/kid-1536x1084.jpg 1536w, https://tahsinuddin.github.io/wp-content/uploads/2022/08/kid.jpg 1660w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption>A young child sharing my excitement for using computers! <img src="https://s.w.org/images/core/emoji/14.0.0/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /></figcaption></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="723" src="https://tahsinuddin.github.io/wp-content/uploads/2022/08/kid-1024x723.jpg" alt="" class="wp-image-827" srcset="https://tahsinuddin.github.io/wp-content/uploads/2022/08/kid-1024x723.jpg 1024w, https://tahsinuddin.github.io/wp-content/uploads/2022/08/kid-300x212.jpg 300w, https://tahsinuddin.github.io/wp-content/uploads/2022/08/kid-768x542.jpg 768w, https://tahsinuddin.github.io/wp-content/uploads/2022/08/kid-1536x1084.jpg 1536w, https://tahsinuddin.github.io/wp-content/uploads/2022/08/kid.jpg 1660w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption>A young child sharing my excitement for using computers! <img src="https://s.w.org/images/core/emoji/14.0.0/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /></figcaption></figure>
 
 
 
@@ -68,7 +68,7 @@
 
 
 
-<figure class="wp-block-image size-large"><img loading="lazy" width="1024" height="576" src="https://tahsinuddin.github.io/wp-content/uploads/2022/08/laptop-1024x576.webp" alt="" class="wp-image-823" srcset="https://tahsinuddin.github.io/wp-content/uploads/2022/08/laptop-1024x576.webp 1024w, https://tahsinuddin.github.io/wp-content/uploads/2022/08/laptop-300x169.webp 300w, https://tahsinuddin.github.io/wp-content/uploads/2022/08/laptop-768x432.webp 768w, https://tahsinuddin.github.io/wp-content/uploads/2022/08/laptop.webp 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption>Techie Youth has helped me appreciate how much can be done by a simple laptop or computer.</figcaption></figure>
+<figure class="wp-block-image size-large"><img decoding="async" loading="lazy" width="1024" height="576" src="https://tahsinuddin.github.io/wp-content/uploads/2022/08/laptop-1024x576.webp" alt="" class="wp-image-823" srcset="https://tahsinuddin.github.io/wp-content/uploads/2022/08/laptop-1024x576.webp 1024w, https://tahsinuddin.github.io/wp-content/uploads/2022/08/laptop-300x169.webp 300w, https://tahsinuddin.github.io/wp-content/uploads/2022/08/laptop-768x432.webp 768w, https://tahsinuddin.github.io/wp-content/uploads/2022/08/laptop.webp 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption>Techie Youth has helped me appreciate how much can be done by a simple laptop or computer.</figcaption></figure>
 
 
 
@@ -96,7 +96,7 @@
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" width="1024" height="637" src="https://tahsinuddin.github.io/wp-content/uploads/2022/08/cloud-computing-1.webp" alt="" class="wp-image-824" srcset="https://tahsinuddin.github.io/wp-content/uploads/2022/08/cloud-computing-1.webp 1024w, https://tahsinuddin.github.io/wp-content/uploads/2022/08/cloud-computing-1-300x187.webp 300w, https://tahsinuddin.github.io/wp-content/uploads/2022/08/cloud-computing-1-768x478.webp 768w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption>Cloud computing is a powerful example of using computing to store important data.</figcaption></figure>
+<figure class="wp-block-image size-full"><img decoding="async" loading="lazy" width="1024" height="637" src="https://tahsinuddin.github.io/wp-content/uploads/2022/08/cloud-computing-1.webp" alt="" class="wp-image-824" srcset="https://tahsinuddin.github.io/wp-content/uploads/2022/08/cloud-computing-1.webp 1024w, https://tahsinuddin.github.io/wp-content/uploads/2022/08/cloud-computing-1-300x187.webp 300w, https://tahsinuddin.github.io/wp-content/uploads/2022/08/cloud-computing-1-768x478.webp 768w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption>Cloud computing is a powerful example of using computing to store important data.</figcaption></figure>
 
 
 
@@ -132,7 +132,7 @@
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" width="926" height="614" src="https://tahsinuddin.github.io/wp-content/uploads/2022/08/writer.webp" alt="" class="wp-image-825" srcset="https://tahsinuddin.github.io/wp-content/uploads/2022/08/writer.webp 926w, https://tahsinuddin.github.io/wp-content/uploads/2022/08/writer-300x199.webp 300w, https://tahsinuddin.github.io/wp-content/uploads/2022/08/writer-768x509.webp 768w" sizes="(max-width: 926px) 100vw, 926px" /><figcaption>I&#8217;ve also learned how to improve my writing skills to communicate my ideas thoughtfully.</figcaption></figure>
+<figure class="wp-block-image size-full"><img decoding="async" loading="lazy" width="926" height="614" src="https://tahsinuddin.github.io/wp-content/uploads/2022/08/writer.webp" alt="" class="wp-image-825" srcset="https://tahsinuddin.github.io/wp-content/uploads/2022/08/writer.webp 926w, https://tahsinuddin.github.io/wp-content/uploads/2022/08/writer-300x199.webp 300w, https://tahsinuddin.github.io/wp-content/uploads/2022/08/writer-768x509.webp 768w" sizes="(max-width: 926px) 100vw, 926px" /><figcaption>I&#8217;ve also learned how to improve my writing skills to communicate my ideas thoughtfully.</figcaption></figure>
 
 
 
@@ -185,7 +185,7 @@
 
 
 
-<div class="wp-container-2 wp-block-group blog-post-content" style="padding-top:0px;padding-right:120px;padding-bottom:0px;padding-left:120px">
+<div class="is-layout-flow wp-block-group blog-post-content" style="padding-top:0px;padding-right:120px;padding-bottom:0px;padding-left:120px">
 <h2 class="wp-block-gutenverse-heading guten-element guten-N6oeSU">Welcome to My Blog!</h2>
 
 
@@ -214,7 +214,7 @@
             <div class="guten-posts guten-ajax-flag">
             <article class="guten-post post-507 post type-post status-publish format-standard has-post-thumbnail hentry category-personal">
                     <div class="guten-thumb"><a href="https://tahsinuddin.github.io/2022/08/06/boosting-my-career-journey-with-techie-youth/"><div class="thumbnail-container ">
-            <img width="1280" height="720" src="https://tahsinuddin.github.io/wp-content/uploads/2022/07/tecj.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" loading="lazy" srcset="https://tahsinuddin.github.io/wp-content/uploads/2022/07/tecj.jpg 1280w, https://tahsinuddin.github.io/wp-content/uploads/2022/07/tecj-300x169.jpg 300w, https://tahsinuddin.github.io/wp-content/uploads/2022/07/tecj-1024x576.jpg 1024w, https://tahsinuddin.github.io/wp-content/uploads/2022/07/tecj-768x432.jpg 768w" sizes="(max-width: 1280px) 100vw, 1280px" />
+            <img width="1280" height="720" src="https://tahsinuddin.github.io/wp-content/uploads/2022/07/tecj.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://tahsinuddin.github.io/wp-content/uploads/2022/07/tecj.jpg 1280w, https://tahsinuddin.github.io/wp-content/uploads/2022/07/tecj-300x169.jpg 300w, https://tahsinuddin.github.io/wp-content/uploads/2022/07/tecj-1024x576.jpg 1024w, https://tahsinuddin.github.io/wp-content/uploads/2022/07/tecj-768x432.jpg 768w" sizes="(max-width: 1280px) 100vw, 1280px" />
 			<div class="guten-overlay"></div>
         </div></a></div>
                     <div class="guten-postblock-content"><div class="guten-post-category "><span><a href="https://tahsinuddin.github.io/category/personal/" class="category-personal">Personal</a></span></div><h3 class="guten-post-title"><a href="https://tahsinuddin.github.io/2022/08/06/boosting-my-career-journey-with-techie-youth/">Boosting My Career Journey with Techie Youth!</a></h3>
@@ -226,7 +226,7 @@
             </div></div>
                 </article><article class="guten-post post-466 post type-post status-publish format-standard has-post-thumbnail hentry category-personal">
                     <div class="guten-thumb"><a href="https://tahsinuddin.github.io/2022/08/05/welcome/"><div class="thumbnail-container ">
-            <img width="2560" height="1440" src="https://tahsinuddin.github.io/wp-content/uploads/2022/08/plane.webp" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" loading="lazy" srcset="https://tahsinuddin.github.io/wp-content/uploads/2022/08/plane.webp 2560w, https://tahsinuddin.github.io/wp-content/uploads/2022/08/plane-300x169.webp 300w, https://tahsinuddin.github.io/wp-content/uploads/2022/08/plane-1024x576.webp 1024w, https://tahsinuddin.github.io/wp-content/uploads/2022/08/plane-768x432.webp 768w, https://tahsinuddin.github.io/wp-content/uploads/2022/08/plane-1536x864.webp 1536w, https://tahsinuddin.github.io/wp-content/uploads/2022/08/plane-2048x1152.webp 2048w" sizes="(max-width: 2560px) 100vw, 2560px" />
+            <img width="2560" height="1440" src="https://tahsinuddin.github.io/wp-content/uploads/2022/08/plane.webp" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://tahsinuddin.github.io/wp-content/uploads/2022/08/plane.webp 2560w, https://tahsinuddin.github.io/wp-content/uploads/2022/08/plane-300x169.webp 300w, https://tahsinuddin.github.io/wp-content/uploads/2022/08/plane-1024x576.webp 1024w, https://tahsinuddin.github.io/wp-content/uploads/2022/08/plane-768x432.webp 768w, https://tahsinuddin.github.io/wp-content/uploads/2022/08/plane-1536x864.webp 1536w, https://tahsinuddin.github.io/wp-content/uploads/2022/08/plane-2048x1152.webp 2048w" sizes="(max-width: 2560px) 100vw, 2560px" />
 			<div class="guten-overlay"></div>
         </div></a></div>
                     <div class="guten-postblock-content"><div class="guten-post-category "><span><a href="https://tahsinuddin.github.io/category/personal/" class="category-personal">Personal</a></span></div><h3 class="guten-post-title"><a href="https://tahsinuddin.github.io/2022/08/05/welcome/">Welcome!</a></h3>
