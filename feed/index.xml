@@ -360,7 +360,7 @@
 </div>
 
 
-<div class="guten-v5mL24   guten-post-block guten-element"><div  class="gutenverse guten-postblock postblock-type-1 guten-pagination-disable break-point-tablet post-element guten-v5mL24"  data-id="guten-v5mL24" data-settings="{&quot;numberPost&quot;:&quot;2&quot;,&quot;postType&quot;:&quot;post&quot;,&quot;postOffset&quot;:0,&quot;includePost&quot;:[],&quot;excludePost&quot;:[],&quot;includeCategory&quot;:[],&quot;excludeCategory&quot;:[],&quot;includeAuthor&quot;:[],&quot;includeTag&quot;:[],&quot;excludeTag&quot;:[],&quot;htmlTag&quot;:&quot;h3&quot;,&quot;categoryEnabled&quot;:true,&quot;categoryPosition&quot;:&quot;center&quot;,&quot;excerptEnabled&quot;:true,&quot;excerptLength&quot;:20,&quot;excerptMore&quot;:&quot;...&quot;,&quot;readmoreEnabled&quot;:true,&quot;readmoreIcon&quot;:&quot;fas fa-arrow-right&quot;,&quot;readmoreIconPosition&quot;:&quot;after&quot;,&quot;readmoreText&quot;:&quot;Read More&quot;,&quot;commentIcon&quot;:&quot;fas fa-comment&quot;,&quot;commentIconPosition&quot;:&quot;before&quot;,&quot;metaEnabled&quot;:true,&quot;metaAuthorByText&quot;:&quot;by&quot;,&quot;metaAuthorIcon&quot;:&quot;fas fa-user&quot;,&quot;metaAuthorIconPosition&quot;:&quot;before&quot;,&quot;metaDateEnabled&quot;:true,&quot;metaDateType&quot;:&quot;published&quot;,&quot;metaDateFormat&quot;:&quot;default&quot;,&quot;metaDateFormatCustom&quot;:&quot;&quot;,&quot;metaDateIcon&quot;:&quot;fas fa-clock&quot;,&quot;metaDateIconPosition&quot;:&quot;before&quot;,&quot;postblockType&quot;:&quot;type-1&quot;,&quot;paginationMode&quot;:&quot;disable&quot;,&quot;paginationLoadmoreText&quot;:&quot;Load More&quot;,&quot;paginationLoadingText&quot;:&quot;Loading...&quot;,&quot;paginationNumberPost&quot;:3,&quot;paginationScrollLimit&quot;:0,&quot;paginationIcon&quot;:&quot;&quot;,&quot;paginationIconPosition&quot;:&quot;before&quot;,&quot;paged&quot;:1,&quot;class&quot;:null}"><div class="guten-block-container">
+<div class="guten-v5mL24   guten-post-block guten-element"><div  class="gutenverse guten-postblock postblock-type-1 guten-pagination-disable break-point-tablet post-element guten-v5mL24"  data-id="guten-v5mL24" data-settings="{&quot;numberPost&quot;:&quot;2&quot;,&quot;inheritQuery&quot;:true,&quot;postType&quot;:&quot;post&quot;,&quot;postOffset&quot;:0,&quot;includePost&quot;:[],&quot;excludePost&quot;:[],&quot;includeCategory&quot;:[],&quot;excludeCategory&quot;:[],&quot;includeAuthor&quot;:[],&quot;includeTag&quot;:[],&quot;excludeTag&quot;:[],&quot;htmlTag&quot;:&quot;h3&quot;,&quot;categoryEnabled&quot;:true,&quot;categoryPosition&quot;:&quot;center&quot;,&quot;excerptEnabled&quot;:true,&quot;excerptLength&quot;:20,&quot;excerptMore&quot;:&quot;...&quot;,&quot;readmoreEnabled&quot;:true,&quot;readmoreIcon&quot;:&quot;fas fa-arrow-right&quot;,&quot;readmoreIconPosition&quot;:&quot;after&quot;,&quot;readmoreText&quot;:&quot;Read More&quot;,&quot;commentEnabled&quot;:false,&quot;commentIcon&quot;:&quot;fas fa-comment&quot;,&quot;commentIconPosition&quot;:&quot;before&quot;,&quot;metaEnabled&quot;:true,&quot;metaAuthorEnabled&quot;:true,&quot;metaAuthorByText&quot;:&quot;by&quot;,&quot;metaAuthorIcon&quot;:&quot;fas fa-user&quot;,&quot;metaAuthorIconPosition&quot;:&quot;before&quot;,&quot;metaDateEnabled&quot;:true,&quot;metaDateType&quot;:&quot;published&quot;,&quot;metaDateFormat&quot;:&quot;default&quot;,&quot;metaDateFormatCustom&quot;:&quot;&quot;,&quot;metaDateIcon&quot;:&quot;fas fa-clock&quot;,&quot;metaDateIconPosition&quot;:&quot;before&quot;,&quot;postblockType&quot;:&quot;type-1&quot;,&quot;paginationMode&quot;:&quot;disable&quot;,&quot;paginationLoadmoreText&quot;:&quot;Load More&quot;,&quot;paginationLoadingText&quot;:&quot;Loading...&quot;,&quot;paginationNumberPost&quot;:3,&quot;paginationScrollLimit&quot;:0,&quot;paginationIcon&quot;:&quot;&quot;,&quot;paginationIconPosition&quot;:&quot;before&quot;,&quot;paged&quot;:1,&quot;class&quot;:null}"><div class="guten-block-container">
             <div class="guten-posts guten-ajax-flag">
             <article class="guten-post post-636 post type-post status-publish format-standard has-post-thumbnail hentry category-social-justice">
                     <div class="guten-thumb"><a href="https://tahsinuddin.github.io/2022/08/11/helping-youth-become-financially-self-sufficient/"><div class="thumbnail-container ">
@@ -372,10 +372,6 @@
             <div class="guten-post-meta-bottom">
                 <div class="guten-meta-readmore icon-position-after">
                 <a href="https://tahsinuddin.github.io/2022/08/11/helping-youth-become-financially-self-sufficient/" class="guten-readmore">Read More<i aria-hidden="true" class="fas fa-arrow-right"></i></a>
-            </div><div class="guten-meta-comment icon-position-before">
-                <a href="https://tahsinuddin.github.io/2022/08/11/helping-youth-become-financially-self-sufficient/#respond" >
-                    <i aria-hidden="true" class="fas fa-comment"></i><span>0</span>
-                </a>
             </div>
             </div></div>
                 </article><article class="guten-post post-507 post type-post status-publish format-standard has-post-thumbnail hentry category-personal">
@@ -388,10 +384,6 @@
             <div class="guten-post-meta-bottom">
                 <div class="guten-meta-readmore icon-position-after">
                 <a href="https://tahsinuddin.github.io/2022/08/06/boosting-my-career-journey-with-techie-youth/" class="guten-readmore">Read More<i aria-hidden="true" class="fas fa-arrow-right"></i></a>
-            </div><div class="guten-meta-comment icon-position-before">
-                <a href="https://tahsinuddin.github.io/2022/08/06/boosting-my-career-journey-with-techie-youth/#respond" >
-                    <i aria-hidden="true" class="fas fa-comment"></i><span>0</span>
-                </a>
             </div>
             </div></div>
                 </article>
